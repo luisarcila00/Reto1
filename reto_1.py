@@ -6,9 +6,4 @@ numero_8 = 2*2*2*2/2
 numero_9 = 2*2*2+2/2
 numero_10 = 2*2+2+2+2
 
-print(numero_5)
-print(numero_6)
-print(numero_7)
-print(numero_8)
-print(numero_9)
-print(numero_10)
+print(int(numero_5),int(numero_6),int(numero_7),int(numero_8),int(numero_9),numero_10)
