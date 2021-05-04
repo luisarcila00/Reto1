@@ -5,5 +5,5 @@ compradas = 9
 contenido = 24
 invitados = 56
 cantidad_total_de_refrescos = compradas * contenido
-refrescos_consumidos = cantidad_total_de_refrescos % invitados
-print('Cantidad de refrescos que sobran:',refrescos_consumidos)
+refrescos_sobrantes = cantidad_total_de_refrescos % invitados
+print('Cantidad de refrescos que sobran:',refrescos_sobrantes)
