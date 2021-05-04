@@ -6,7 +6,7 @@ iva_general = 21
 print('Asumiendo que el costo del telefono es con iva incluido')
 costo_telefono = 420
 #Procedo a obtener el iva gravado en el telefono
-iva_gravado = costo_telefono*(iva_general/100)
+iva_gravado = costo_telefono * (iva_general/100)
 print('Valor del iva',iva_gravado,'€')
 #obtengo el valor neto del telefono sin iva
 costo_telefono_sin_iva = costo_telefono - iva_gravado
