@@ -10,3 +10,4 @@ print(par_impar(2))
 print(par_impar(3))
 print(par_impar(4))
 print(par_impar(5))
+
